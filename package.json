@@ -1,0 +1,19 @@
+{
+  "name": "week-1",
+  "version": "1.0.0",
+  "description": "Week 1 assignment of WeJapa internship",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Getting",
+    "started",
+    "with",
+    "servers",
+    "in",
+    "Node"
+  ],
+  "author": "Jinet Onyango",
+  "license": "ISC"
+}
